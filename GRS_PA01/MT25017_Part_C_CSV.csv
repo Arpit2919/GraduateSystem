@@ -1,0 +1,7 @@
+Program_Variant,Worker,CPU_Percent,Disk_Read_KB_s,Disk_Write_KB_s,Real_Time
+MT25017_Part_A_Program_A,cpu,94,4.011,896.526,8.49s
+MT25017_Part_A_Program_A,mem,1,18.6125,897.814,1.09s
+MT25017_Part_A_Program_A,io,20,2.2135,8624.86,146.95s
+MT25017_Part_A_Program_B,cpu,116,1.8015,902.374,7.16s
+MT25017_Part_A_Program_B,mem,0.00,1.801,915.409,1.493988168s
+MT25017_Part_A_Program_B,io,19,1.8005,8019.51,153.52s
